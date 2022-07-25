@@ -44,17 +44,6 @@
         </td>
     </tr>
   
-    <tr>
-        <td><a href="https://github.com/lhurr/Machine-Learning">PC price regression</a></td>
-        <td>Predict </td>
-        <td>
-            <em><b>Supervised Learning</b></em>,<br>
-            <em><b>Regression</b></em>,<br>
-            <em><b>Feature Engineering</b></em>,<br>
-            <em><b>Recursive Feature Elimination</b></em>,<br>
-            <em><b>Decision Trees</b></em><br>
-        </td>
-    </tr>
 
     <tr>
         <td><a href="https://github.com/lhurr/Machine-Learning">Employee Segmentation</a></td>
