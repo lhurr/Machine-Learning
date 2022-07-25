@@ -12,15 +12,8 @@
 </p>
 
 
-## About The Repository
+## Overview of The Repository
 
-This repository serves as an archive of  my learning journey and projects that I have embarked in the realm of Machine Learning and its applications.
-
-Feel free to contact me if you have any queries or spot any mistakes in my implementation.
-
-### Overview
-
-This section list out the projects in this repository.
 <table>
     <tr>
         <th>Project Title</th>
