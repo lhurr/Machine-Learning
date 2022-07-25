@@ -34,7 +34,7 @@
     </tr>
   
     <tr>
-        <td><a href="">PC price regression</a></td>
+        <td><a href="https://github.com/lhurr/Machine-Learning">PC price regression</a></td>
         <td>Predict </td>
         <td>
             <em><b>Supervised Learning</b></em>,<br>
