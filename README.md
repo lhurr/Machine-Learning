@@ -16,8 +16,8 @@
 
 <table>
     <tr>
-        <th>Project Title</th>
-        <th>Descriptions</th>
+        <th>Study</th>
+        <th>Info</th>
         <th>Keywords</th>
     </tr>
     <tr>
