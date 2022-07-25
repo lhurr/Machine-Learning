@@ -28,7 +28,7 @@ This section list out the projects in this repository.
         <th>Keywords</th>
     </tr>
     <tr>
-        <td><a href = "">N</a></td>
+        <td><a href = "#">Mushroom Edibility Classification</a></td>
         <td>Binary Classification to predict the edibility of mushroom with emphasise on model interpretability.</td>
         <td>
             <em><b>Supervised Learning</b></em>,<br>
