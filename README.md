@@ -32,6 +32,18 @@
             <em><b>Random Forest Classifier</b></em><br>
         </td>
     </tr>
+      <tr>
+        <td><a href = "https://github.com/lhurr/Machine-Learning/edit/main/README.md">Machine Status Classification</a></td>
+        <td>Binary Classification task to predict whether machines fail or not given a set of features</td>
+        <td>
+            <em><b>Supervised Learning</b></em>,<br>
+            <em><b>Binary Classificaiton</b></em>,<br>
+            <em><b>Feature Hashing</b></em>,<br>
+            <em><b>SelectKBest</b></em>,<br>
+            <em><b>PHIK correlation</b></em>,<br>
+            <em><b>Random Forest Classifier</b></em><br>
+        </td>
+    </tr>
   
     <tr>
         <td><a href="https://github.com/lhurr/Machine-Learning">PC price regression</a></td>
