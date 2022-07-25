@@ -46,7 +46,7 @@
     </tr>
 
     <tr>
-        <td><a href="">Employee Segmentation</a></td>
+        <td><a href="https://github.com/lhurr/Machine-Learning">Employee Segmentation</a></td>
         <td>Achieve Employee Segmentation through Unsupervised Learning Clustering Algorithms.</td>
         <td>
             <em><b>Unsupervised Learning</b></em>,<br>
@@ -59,7 +59,7 @@
     </tr>
   
     <tr>
-        <td><a href="#">Air Quality Forecasting</a></td>
+        <td><a href="https://github.com/lhurr/Machine-Learning">Air Quality Forecasting</a></td>
         <td>Forecast the air quality of 4 air pollutants using Time-Series Forecasting techniques.</td>
         <td>
             <em><b>Supervised Learning</b></em>,<br>
