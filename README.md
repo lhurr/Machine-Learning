@@ -21,15 +21,15 @@
         <th>Keywords</th>
     </tr>
     <tr>
-        <td><a href = "https://github.com/lhurr/Machine-Learning/edit/main/README.md">Mushroom Edibility Classification</a></td>
-        <td>Binary Classification to predict the edibility of mushroom with emphasise on model interpretability.</td>
+        <td><a href = "https://github.com/lhurr/Machine-Learning/edit/main/README.md">Machine Status Classification</a></td>
+        <td>Binary Classification task to predict whether machines fail or not given a set of features</td>
         <td>
             <em><b>Supervised Learning</b></em>,<br>
             <em><b>Binary Classificaiton</b></em>,<br>
-            <em><b>Feature Selection</b></em>,<br>
-            <em><b>RFE</b></em>,<br>
-            <em><b>Cremer's V</b></em>,<br>
-            <em><b>Decision Tree</b></em><br>
+            <em><b>Feature Hashing</b></em>,<br>
+            <em><b>SelectKBest</b></em>,<br>
+            <em><b>PHIK correlation</b></em>,<br>
+            <em><b>Random Forest Classifier</b></em><br>
         </td>
     </tr>
   
@@ -40,8 +40,8 @@
             <em><b>Supervised Learning</b></em>,<br>
             <em><b>Regression</b></em>,<br>
             <em><b>Feature Engineering</b></em>,<br>
-            <em><b>Hierarchical Clustering</b></em>,<br>
-            <em><b>Gradient Boosted Trees</b></em><br>
+            <em><b>Recursive Feature Elimination</b></em>,<br>
+            <em><b>Decision Trees</b></em><br>
         </td>
     </tr>
 
