@@ -4,7 +4,7 @@
   <h3 align="center">Machine Learning</h3>
 
   <p align="center">
-    Supervised & Unsupervised Learning
+    Supervised, Unsupervised Learning & Time Series Forecasting
     <br />
     <br />
     <br />
@@ -34,7 +34,7 @@
     </tr>
       <tr>
         <td><a href = "https://github.com/lhurr/Machine-Learning/edit/main/README.md">PC price regression</a></td>
-        <td>Binary Classification task to predict whether machines fail or not given a set of features</td>
+        <td>Regression task to predict the price of PCs given a set of specifications</td>
         <td>
             <em><b>Supervised Learning</b></em>,<br>
             <em><b>Regression</b></em>,<br>
@@ -48,11 +48,10 @@
         <td>Achieve Employee Segmentation through Unsupervised Learning Clustering Algorithms.</td>
         <td>
             <em><b>Unsupervised Learning</b></em>,<br>
-            <em><b>K-Means Clustering</b></em>,<br>
+            <em><b>K-Prototypes</b></em>,<br>
             <em><b>Silhouette Analysis</b></em>,<br>
+            <em><b>K-Medoids</b></em>,<br>
             <em><b>Hierarchical Clustering</b></em>,<br>
-            <em><b>Spectral Clustering</b></em>,<br>
-            <em><b>Clusters Interpretation</b></em>,<br>
         </td>
     </tr>  
     <tr>
@@ -60,11 +59,11 @@
         <td>Forecast the air quality of 4 air pollutants using Time-Series Forecasting techniques.</td>
         <td>
             <em><b>Supervised Learning</b></em>,<br>
-            <em><b>Time-Series Forecasting</b></em>,<br>
-            <em><b>ACF & PACF</b></em>,<br>
-            <em><b>ARIMA</b></em>,<br>
+            <em><b>Multivariate & Univariate Time series modelling</b></em>,<br>
+            <em><b>Structural Time Series Models</b></em>,<br>
+            <em><b>ARIMAX</b></em>,<br>
             <em><b>SARIMAX</b></em>,<br>
-            <em><b>Kaggle API</b></em>,<br>
+            <em><b>VARMAX</b></em>,<br>
         </td>
     </tr>
 
