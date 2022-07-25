@@ -28,7 +28,7 @@ This section list out the projects in this repository.
         <th>Keywords</th>
     </tr>
     <tr>
-        <td><a href = "#">Mushroom Edibility Classification</a></td>
+        <td><a href = "https://github.com/lhurr/Machine-Learning/edit/main/README.md">Mushroom Edibility Classification</a></td>
         <td>Binary Classification to predict the edibility of mushroom with emphasise on model interpretability.</td>
         <td>
             <em><b>Supervised Learning</b></em>,<br>
@@ -39,6 +39,7 @@ This section list out the projects in this repository.
             <em><b>Decision Tree</b></em><br>
         </td>
     </tr>
+  
     <tr>
         <td><a href="">PC price regression</a></td>
         <td>Predict </td>
