@@ -1,0 +1,24 @@
+******* company employee dataset (clustering) ********
+
+This is a dataset collected from HR department in a company, it contains data of 1471 employees.
+
+Age: Employee age
+Gender: Employee gender
+BusinessTravel: Business travel frequency for the employee
+Job Function: Department of the employee
+Distance Between Company and Home (KM): distance between company and home
+Education (1 is lowest, 5 is highest): Education qualification of employee
+Job Satisfaction (1 is lowest, 4 is highest): Employee's job satisfaction
+MaritalStatus: Marital status of employee
+Salary ($): Employee's salary
+Performance Rating (1 is lowest, 4 is highest): Employee's performance rating in the company
+Work Life Balance (1 is worst, 4 is best): Work life balance rating
+Length of Service (Years): How many years the employee works for the company
+Resign Status: Is the employee still with the company
+
+
+
+
+
+
+
