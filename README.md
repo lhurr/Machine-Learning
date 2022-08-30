@@ -50,7 +50,7 @@
             <em><b>Unsupervised Learning</b></em>,<br>
             <em><b>K-Prototypes</b></em>,<br>
             <em><b>Silhouette Analysis</b></em>,<br>
-            <em><b>K-Medoids</b></em>,<br>
+            <em><b>Gower Distance</b></em>,<br>
             <em><b>Hierarchical Clustering</b></em>,<br>
         </td>
     </tr>  
