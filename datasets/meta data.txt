@@ -1,33 +1,22 @@
-******* factory dataset (classification) ********
+******* company employee dataset (clustering) ********
 
-This is a dataset collected from a manufacturing company, it contains 20000 data points with 9 columns.
+This is a dataset collected from HR department in a company, it contains data of 1471 employees.
 
-Unique ID: Unique identifier ranging from 1 to 20000
-Product ID: The serial number of product
-Quality: Consist of letter L, M and H for low, medium and high quality
-Ambient T: Environment temperature
-Process T: Machine temperature
-Rotation Speed: Rotational speed of machine when running
-Torque: Measure of the turning force
-Tool Wear: Tool wear time estimated for the machine
-Machine Status: Labels indicate machine failure or not, 1 means failure, 0 means normal.
+Age: Employee age
+Gender: Employee gender
+BusinessTravel: Business travel frequency for the employee
+Job Function: Department of the employee
+Distance Between Company and Home (KM): distance between company and home
+Education (1 is lowest, 5 is highest): Education qualification of employee
+Job Satisfaction (1 is lowest, 4 is highest): Employee's job satisfaction
+MaritalStatus: Marital status of employee
+Salary ($): Employee's salary
+Performance Rating (1 is lowest, 4 is highest): Employee's performance rating in the company
+Work Life Balance (1 is worst, 4 is best): Work life balance rating
+Length of Service (Years): How many years the employee works for the company
+Resign Status: Is the employee still with the company
 
 
-******* pc price dataset (regression) ********
-This is a dataset collected from a PC website, it contains 15320 data points with 12 columns.
-
-Product ID: unique identifier ranging from 0 to 15319
-Brand: Brand of the PC
-Type: PC type, such as notebook, ultrabook
-Screen Size: Size of the PC screen
-Screen Specs: PC screen specs with resolution
-CPU: CPU infomation of the PC
-RAM: RAM information of the PC
-Hard Disk: Hard Disk information of the PC
-GPU: Graphic card of the PC
-Operating System: Operating system, such as Windows 10, macOS
-Weight: Weight of the PC
-Price: PC price
 
 
 
