@@ -11,9 +11,6 @@
   </p>
 </p>
 
-
-## Overview of The Repository
-
 <table>
     <tr>
         <th>Study</th>
