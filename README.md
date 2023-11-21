@@ -3,19 +3,13 @@
 <p align="center">
   <h3 align="center">Machine Learning</h3>
 
-  <p align="center">
-    Supervised, Unsupervised Learning & Time Series Forecasting
-    <br />
-    <br />
-    <br />
-  </p>
 </p>
 
 <table>
     <tr>
         <th>Study</th>
         <th>Info</th>
-        <th>Keywords</th>
+        <th>Concepts</th>
     </tr>
     <tr>
         <td><a href = "https://github.com/lhurr/Machine-Learning/edit/main/README.md">Machine Status Classification</a></td>
